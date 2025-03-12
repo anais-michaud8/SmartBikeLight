@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="NamedScopeManager">
-    <scope name="api" pattern="" />
-    <scope name="apps" pattern="" />
-    <scope name="dev" pattern="" />
-    <scope name="helpers" pattern="" />
-    <scope name="logs" pattern="" />
-    <scope name="programs" pattern="" />
-    <scope name="project" pattern="" />
-    <scope name="scripts" pattern="" />
-    <scope name="tests" pattern="" />
-    <scope name="resources" pattern="" />
-  </component>
-  <component name="ProjectDictionaryState">
-    <dictionary name="Anais">
-      <words>
-        <w>Anaïs</w>
-        <w>Michaud</w>
-      </words>
-    </dictionary>
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -34,5 +14,4 @@
       </profile-state>
     </entry>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
 </project>
